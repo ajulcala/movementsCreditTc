@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: servicio-Credit-Movements
+  cloud:
+    config:
+      uri: http://localhost:8888
